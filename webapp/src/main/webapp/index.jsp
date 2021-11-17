@@ -1,4 +1,4 @@
- <B> RAVIKUMAR DOCKER CONTAINER ANSIBLE </B> 
+  RAVIKUMAR DOCKER CONTAINER ANSIBLE 
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
